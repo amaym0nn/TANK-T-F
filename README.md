@@ -1,1 +1,1 @@
-# TANK-T-F
+# Game developed in simple c language.
