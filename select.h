@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <string.h>
 
+/* Header that holds the user's input values */
 
 struct infoUser {
 
